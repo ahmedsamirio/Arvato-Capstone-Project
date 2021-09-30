@@ -11,6 +11,8 @@ This repository only contains a notebook without any of the data required to run
 ## Project Motivation
 In this project, I role-played that I was a Data Scientist at Bertelsmann Arvato Analytics, where I was handed over a project where the stakeholder was a mail-order sales company in Germany.
 
+You can find the full write-up for the project in [this blog post](https://ahmedsamirio.github.io/Arvato_Capstone_Project/).
+
 According to britannica, a mail order business is a
 
 “method of merchandising in which the seller’s offer is made through mass mailing of a circular or catalog or through an advertisement placed in a newspaper or magazine and in which the buyer places an order by mail.”
@@ -46,4 +48,4 @@ The repository only contains the notebook where the project was made, and unfort
 10. I made a final pipeline and tuned it’s hyperparameters to predict individuals with high probability responding the mail-out campaign
 
 
-For more information about the notebook above, or you can check [this blog post](https://ahmedsamirio.github.io/Arvato_Capstone_Project/).
+For more technical information about the project you can check the notebook above, or you can check [this blog post](https://ahmedsamirio.github.io/Arvato_Capstone_Project/).
